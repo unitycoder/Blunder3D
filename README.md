@@ -1,5 +1,5 @@
 # Blunder3D (name is WIP :D)
-unity+wpf+blender = simple modeling tool?
+unity+wpf = simple modeling tool for common 3D tasks?
 
 # Why
 Cannot get over Blender UI/UX..
